@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <AssemblyName>Aide.Core.Cryptography</AssemblyName>
+    <RootNamespace>Aide.Core.Cryptography</RootNamespace>
+    <Authors>aideguru.com</Authors>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Aide.Core\Aide.Core.csproj" />
+  </ItemGroup>
+
+</Project>
